@@ -1,0 +1,13 @@
+{
+  "name":        "iscroll",
+  "version":     "4.1.9",
+  "author":      "Matteo Spinelli",
+  "description": "smooth scrolling for mobile webkit",
+  "summary":     "smooth scrolling for mobile webkit",
+  "homepage":    "http://cubiq.org/iscroll-4",
+  "main": "lib/iscroll.js",
+  "license": {
+    "name": "MIT",
+    "url": "http://cubiq.org/license"
+  }
+}
